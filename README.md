@@ -1,24 +1,15 @@
-# README
+# Chatter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Rails Chat app whcih uses WebSockets to enable client server messaging.
 
-Things you may want to cover:
+Stakc used
 
-* Ruby version
+* Rails 5
 
-* System dependencies
+* Devise  - for auth
 
-* Configuration
+* Bootstrap
 
-* Database creation
+* Simple Form
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+More to be done and soon will update here.
